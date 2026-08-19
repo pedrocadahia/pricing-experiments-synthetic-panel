@@ -26,12 +26,3 @@ authors:
   - family-names: "Cadahia"
     given-names: "Pedro"
     orcid: "https://orcid.org/0000-0002-2474-2071"
-preferred-citation:
-  type: article
-  title: "Synthetic Panel Data Generation for Pricing Experiments and Causal Evaluation"
-  journal: "Working Paper / Preprint"
-  year: 2026
-  authors:
-    - family-names: "Cadahia"
-      given-names: "Pedro"
-      orcid: "https://orcid.org/0000-0002-2474-2071"
