@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data generator in your research, please cite it as below."
+title: "pricing-experiments-synthetic-panel: Synthetic Panel Data Generator for Pricing Experiments"
+version: 0.1.0
+date-released: 2026-08-19
+url: "https://github.com/pedrocadahia/pricing-experiments-synthetic-panel"
+repository-code: "https://github.com/pedrocadahia/pricing-experiments-synthetic-panel"
+license: Apache-2.0
+type: software
+keywords:
+  - synthetic-data
+  - price-elasticity
+  - causal-inference
+  - double-machine-learning
+  - pass-through
+  - panel-data
+  - revenue-growth-management
+abstract: >-
+  Reproducible data-generating processes for price-elasticity research on weekly
+  retail panels. Three generators produce a common SKU x region x week schema with
+  a known ground truth and deliberately embedded identification regimes (clean,
+  weak, sticky shelf, confounded, collinear), so that estimators can be scored not
+  only on bias and coverage but on whether they correctly abstain where the data
+  cannot identify anything.
+authors:
+  - family-names: "Cadahia"
+    given-names: "Pedro"
+    orcid: "https://orcid.org/0000-0002-2474-2071"
+preferred-citation:
+  type: article
+  title: "Synthetic Panel Data Generation for Pricing Experiments and Causal Evaluation"
+  journal: "Working Paper / Preprint"
+  year: 2026
+  authors:
+    - family-names: "Cadahia"
+      given-names: "Pedro"
+      orcid: "https://orcid.org/0000-0002-2474-2071"
